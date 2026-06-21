@@ -2,8 +2,6 @@
 
 ### Data Analytics | SQL | Data Science Enthusiast
 
-I'm a passionate Computer Science student interested in software engineering, data science, artificial intelligence, database systems, and building technology that solves real-world problems.
-
 I enjoy learning new technologies, working on challenging projects, and continuously improving my technical and leadership skills.
 
 ---
@@ -17,9 +15,6 @@ University of South Florida (USF)
 
 ## 🚀 About Me
 
-- 💻 Computer Science Student
-- 🌱 Continuously learning Software Engineering and AI
-- 🧠 Interested in Machine Learning and Data Science
 - 🗄️ Skilled in Database Design and SQL Development
 - 🔍 Passionate about Problem Solving
 - 📈 Exploring Cloud Technologies and Modern Software Architectures
