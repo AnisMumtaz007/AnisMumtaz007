@@ -1,122 +1,293 @@
-# Hi 👋, I'm Anis Mumtaz
+# Hi, I'm Anis Mumtaz 👋
 
-### Data Analytics | SQL | Data Science Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Econometrics+Student+%40+USF;Business+Intelligence+%26+Data+Analytics;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI;Turning+Data+into+Business+Insights" />
+</p>
 
-I enjoy learning new technologies, working on challenging projects, and continuously improving my technical and leadership skills.
-
----
-
-## 🎓 Education
-
-**Bachelor of Science in Computer Science**  
-University of South Florida (USF)
+<p align="center">
+  <a href="https://www.linkedin.com/in/anismumtaz7">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:anismumtaz@usf.edu">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🗄️ Skilled in Database Design and SQL Development
-- 🔍 Passionate about Problem Solving
-- 📈 Exploring Cloud Technologies and Modern Software Architectures
-- 🤝 Interested in Leadership, Collaboration, and Professional Development
+🎓 Economics & Data Analytics student at the **University of South Florida**
+
+📊 Passionate about:
+
+* Business Intelligence
+* Data Analytics
+* Econometrics
+* Financial Markets
+* Machine Learning
+* Data Visualization
+
+💡 I enjoy transforming raw data into actionable business insights through SQL, Python, Tableau, Power BI, and modern analytics tools.
+
+🏆 Achievements:
+
+* USF Dean's List
+* Green & Gold Directors Award Recipient
+* Bloomberg Market Concepts Certified
+* Google Data Analytics Professional Certified
 
 ---
 
-## 🛠️ Technical Skills
+## 💼 Professional Experience
 
-### Languages
+### 📈 Business Intelligence Intern
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+**Allied Bank Asset Management**
 
-### Data Science & AI
+* Developed Python automation solutions reducing reporting time by **35%**
+* Built KPI dashboards using Tableau
+* Conducted market research and competitive intelligence
+* Performed large-scale data transformation using SQL and Python
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### 📊 Research & Development Intern
 
-### Tools & Technologies
+**IPSOS Pakistan**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+* Executed statistical analysis using Python and SQL
+* Built market mix models and ROI reporting dashboards
+* Translated business requirements into analytical solutions
+
+### 💰 Assistant Accounts Officer
+
+**Ali Medical**
+
+* Assisted financial operations and revenue analysis
+* Helped identify customer segments increasing revenue by **15%**
+* Ensured regulatory compliance and reporting accuracy
+
+---
+
+# 🛠️ Technical Skills
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+* Python
+* SQL (T-SQL)
+* R
+
+### Data Analytics
+
+* Pandas
+* NumPy
+* Tableau
+* Power BI
+* Looker
+* A/B Testing
+* Statistical Analysis
+* Data Cleaning
+* Data Transformation
+
+### Cloud & Big Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+</p>
+
+* AWS
+* Azure
+* Google Cloud Platform
+* BigQuery
+* Amazon Redshift
+
+### Business Tools
+
+* Advanced Excel
+* Google Workspace
+* Microsoft Office
+* Agile
+* Scrum
+* Stakeholder Communication
 
 ---
 
 # 📂 Featured Projects
 
+## 🧠 Bank Customer Churn Prediction
+
+Predict whether a customer will leave a bank using an Artificial Neural Network (ANN).
+
+### Technologies
+
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* TensorFlow
+* Data Visualization
+
+### Highlights
+
+✔ Data preprocessing
+
+✔ Feature engineering
+
+✔ Neural network modeling
+
+✔ Customer retention insights
+
+---
+
+## 🎓 University Course Registration System
+
+A relational database system modeling:
+
+* Students
+* Instructors
+* Courses
+* Registrations
+* Semesters
+* Fee Management
+
+### Technologies
+
+* SQL Server
+* T-SQL
+* Triggers
+* Stored Procedures
+
+---
+
+## 🏪 Retail Business Database System
+
+Designed a complete retail environment database supporting:
+
+* Customer Management
+* Orders
+* Inventory
+* Sales Tracking
+* Reporting
+
+### Technologies
+
+* SQL Server
+* Relational Database Design
+* T-SQL
+
+---
+
+## 📦 Sales & Inventory Management System
+
+Database solution for:
+
+* Product Tracking
+* Customer Records
+* Inventory Monitoring
+* Sales Reporting
+
+### Technologies
+
+* SQL Server
+* Database Modeling
+* Query Optimization
+
+---
+
 ## 🎮 Python Hangman Game
 
-A classic command-line Hangman game built in Python that demonstrates problem-solving, game logic implementation, and user interaction.
+Interactive command-line Hangman game built in Python.
 
-**Skills:** Python, OOP, Logic Building
+### Features
 
----
-
-## 📊 Bank Customer Churn Prediction
-
-Developed an Artificial Neural Network (ANN) to predict customer churn using demographic and banking features.
-
-**Skills:** Machine Learning, Neural Networks, Data Analysis
+* Random word generation
+* Input validation
+* Score tracking
+* Clean game logic
 
 ---
 
-## 🏫 SQL University Course Registration System
+# 📊 GitHub Stats
 
-Designed a relational database system that manages students, instructors, courses, registrations, semesters, and fee records using SQL triggers and constraints.
-
-**Skills:** SQL Server, T-SQL, Database Design
-
----
-
-## 🛒 SQL Retail Business System
-
-Created a retail inventory and order management database with customer tracking, stored procedures, and business analytics.
-
-**Skills:** SQL Server, Stored Procedures, Relational Databases
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnisMumtaz007&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnisMumtaz007&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📦 SQL Sales & Inventory Management System
+# 🔥 GitHub Streak
 
-Implemented inventory management, order processing, customer management, and reporting functionalities using Microsoft SQL Server.
-
-**Skills:** Database Systems, T-SQL, Data Management
-
----
-
-## 📈 Current Focus
-
-- Software Engineering
-- Data Science
-- Artificial Intelligence
-- Machine Learning
-- Database Systems
-- Cloud Computing
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnisMumtaz007&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌟 Leadership & Involvement
+# 🌎 Leadership & Community
 
-- Student Leader
-- Team Collaborator
-- Active Learner
-- Technology Enthusiast
+### Housing Assistant
+
+University of South Florida
+
+* Supporting 2,000+ residents
+* Security operations and access management
+* Team collaboration across multiple housing facilities
+
+### Treasurer
+
+Alpha Sigma Phi
+
+* Managed a $30,000+ operating budget
+* Financial planning and reporting
+* Fundraising strategy and execution
+
+### Student Investment Club
+
+* Equity research
+* Financial statement analysis
+* Cryptocurrency and blockchain education
+
+### Feeding America Volunteer
+
+* Community service initiatives
+* Food drives and outreach programs
 
 ---
 
-## 📫 Connect With Me
+# 📈 Current Focus
 
-- GitHub: https://github.com/AnisMumtaz007
+🔹 Business Intelligence
+
+🔹 Data Analytics
+
+🔹 Financial Data Analysis
+
+🔹 Machine Learning
+
+🔹 SQL Optimization
+
+🔹 Cloud Data Platforms
 
 ---
 
-## 💡 Favorite Quote
+# 📫 Let's Connect
 
-> "Success is the sum of small efforts, repeated day in and day out."
+📧 Email: [anismumtaz@usf.edu](mailto:anismumtaz@usf.edu)
+
+💼 LinkedIn: linkedin.com/in/anismumtaz7
+
+🎓 University of South Florida
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnisMumtaz007&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+⭐ If you find my projects interesting, feel free to star them and connect with me!
+</p>
